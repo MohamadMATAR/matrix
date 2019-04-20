@@ -1,0 +1,4 @@
+
+var = OpenClasseRooms
+
+echo $var
