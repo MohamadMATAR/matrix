@@ -1,4 +1,4 @@
 
-var = OpenClasseRooms
+Var = OpenClasseRooms
 
-echo $var
+echo $Var
