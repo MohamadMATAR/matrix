@@ -1,4 +1,0 @@
-
-Var = OpenClasseRooms
-
-echo $Var
